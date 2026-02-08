@@ -5,7 +5,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #ffebee;
+  background-color: #ebfbff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   overflow: hidden;
 }
@@ -45,10 +45,9 @@ h1 {
   cursor: pointer;
   border: none;
   border-radius: 15px;
-  background-color: #ff4081;
+  background-color: #52b5f2;
   color: white;
   transition: transform 0.2s, background-color 0.2s;
-  box-shadow: 0 4px 15px rgba(255, 64, 129, 0.3);
   /* Prevents blue highlight on tap for mobile */
   -webkit-tap-highlight-color: transparent; 
 }
